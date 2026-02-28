@@ -1,4 +1,4 @@
 {
-  "API_BASE_URL": "http://172.16.22.170/api",
-  "WEBSOCKET_URL": "http://172.16.22.170"
+  "API_BASE_URL": "https://cims.gyssteel.com/api",
+  "WEBSOCKET_URL": "https://cims.gyssteel.com/"
 }
